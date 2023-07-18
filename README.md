@@ -11,6 +11,8 @@ This repository contains the documentation for the Nike Server API, which serves
 
 To access protected endpoints, clients must include a valid authentication token in the request headers. Authentication tokens can be obtained by logging in to the application using the provided authentication endpoint.
 
+- Use json-server-auth for authentication.
+
 
 
 ## Endpoints
@@ -22,7 +24,6 @@ The Nike Server API provides the following endpoints:
 - `/orders`: Retrieve a list of user orders and their status.
 - `/users`: Retrieve a list of user and their status.
 
-- Use json-server-auth for authentication.
 ## Testing
 
 The API endpoints can be tested using tools like Postman or by making HTTP requests directly from your client application.
