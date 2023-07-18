@@ -20,6 +20,7 @@ The Nike Server API provides the following endpoints:
 - `/products`: Retrieve a list of Nike products, including shoes, apparel, and accessories.
 - `/products/{id}`: Retrieve detailed information about a specific Nike product by its ID.
 - `/orders`: Retrieve a list of user orders and their status.
+- `/users`: Retrieve a list of user and their status.
 
 - Use json-server-auth for authentication.
 ## Testing
