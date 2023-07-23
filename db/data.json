@@ -54,7 +54,7 @@
       "id": "DM2845-100",
       "name": "Nike Air Force 1 '07",
       "genre": "Air Force",
-      "price": 0,
+      "price": 9695,
       "color": [
         "Blue",
         "White"
@@ -78,7 +78,7 @@
       "id": "FJ7739-101",
       "name": "Nike Air Force 1 '07 LX",
       "genre": "Air Force",
-      "price": 0,
+      "price": 11895,
       "color": [
         "Cream"
       ],
@@ -101,7 +101,7 @@
       "id": "DD9625-100",
       "name": "Nike Air Force 1 Mid '07",
       "genre": "Air Force",
-      "price": 0,
+      "price": 12545,
       "color": [
         "White"
       ],
@@ -124,7 +124,7 @@
       "id": "DV0806-001",
       "name": "Nike Air Force 1 Mid '07",
       "genre": "Air Force",
-      "price": 0,
+      "price": 12545,
       "color": [
         "Black"
       ],
@@ -147,7 +147,7 @@
       "id": "DV0806-100",
       "name": "Nike Air Force 1 Mid '07",
       "genre": "Air Force",
-      "price": 0,
+      "price": 12545,
       "color": [
         "Gray"
       ],
@@ -170,7 +170,7 @@
       "id": "DV0792-100",
       "name": "Nike Air Force 1 Mid '07",
       "genre": "Air Force",
-      "price": 0,
+      "price": 12545,
       "color": [
         "Brown",
         "Cream"
@@ -237,7 +237,7 @@
       "id": "DV7186-300",
       "name": "Nike Air Force 1 '07 LX NBHD",
       "genre": "Air Force",
-      "price": 0,
+      "price": 13895,
       "color": [
         "Gray"
       ],
@@ -260,7 +260,7 @@
       "id": "DV7186-700",
       "name": "Nike Air Force 1 '07 LX NBHD",
       "genre": "Air Force",
-      "price": 0,
+      "price": 12295,
       "color": [
         "Cream"
       ],
@@ -384,7 +384,7 @@
       "id": "FB4315-100",
       "name": "Nike Air Max 90 SE",
       "genre": "Air Max",
-      "price": 0,
+      "price": 9325,
       "color": [
         "Cream",
         "Red"
@@ -608,7 +608,7 @@
       "id": "DV7220-100",
       "name": "Nike Air Max Penny",
       "genre": "Air Max",
-      "price": 0,
+      "price": 14995,
       "color": [
         "White"
       ],
@@ -683,14 +683,14 @@
       "id": "BQ5451-124",
       "name": "Nike Court Borough Low 2",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 2995,
       "color": [
         "White",
         "Pink"
       ],
       "gender": "Kid",
-      "sale": false,
-      "trending": false,
+      "sale": true,
+      "trending": true,
       "icon": false,
       "thumbnail": [
         "https://res.cloudinary.com/dvirqrzq3/image/upload/v1686800337/SHOE_IMAGES/Kids/BQ5451-124_01.webp",
@@ -708,7 +708,7 @@
       "id": "BQ7197-001",
       "name": "Sky Jordan 1",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 3495,
       "color": [
         "Red",
         "Black"
@@ -729,13 +729,13 @@
       "id": "BQ7197-301",
       "name": "Sky Jordan 1",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 4325,
       "color": [
         "Green",
         "Black"
       ],
       "gender": "Kid",
-      "sale": false,
+      "sale": true,
       "trending": false,
       "icon": false,
       "thumbnail": [
@@ -754,7 +754,7 @@
       "id": "AR6352-400",
       "name": "Jordan 1 Mid",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 5420,
       "color": [
         "Blue",
         "White"
@@ -778,7 +778,7 @@
       "id": "DQ0284-107",
       "name": "Nike Air Max SYSTM",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 3210,
       "color": [
         "Black",
         "Gray"
@@ -802,14 +802,14 @@
       "id": "DM9027-102",
       "name": "Nike Omni Multi-Court",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 2345,
       "color": [
         "White",
         "Yellow",
         "Pink"
       ],
       "gender": "Kid",
-      "sale": false,
+      "sale": true,
       "trending": false,
       "icon": false,
       "thumbnail": [
@@ -827,7 +827,7 @@
       "id": "DM9027-001",
       "name": "Nike Omni Multi-Court",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 2345,
       "color": [
         "Black"
       ],
@@ -850,7 +850,7 @@
       "id": "DM9027-002",
       "name": "Nike Omni Multi-Court",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 2780,
       "color": [
         "Black"
       ],
@@ -873,7 +873,7 @@
       "id": "FJ7691-191",
       "name": "Nike Air Force 1 LV8",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 8930,
       "color": [
         "Blue",
         "White"
@@ -897,7 +897,7 @@
       "id": "FD0022-001",
       "name": "Nike Air More Uptempo",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 5430,
       "color": [
         "White"
       ],
@@ -920,7 +920,7 @@
       "id": "DX1657-100",
       "name": "Nike Air Force 1 LV8 3",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 1230,
       "color": [
         "Cream"
       ],
@@ -943,13 +943,13 @@
       "id": "FJ7722-141",
       "name": "Nike Flex Plus 2",
       "genre": "Kid's Shoe",
-      "price": 0,
+      "price": 4320,
       "color": [
         "Green",
         "White"
       ],
       "gender": "Kid",
-      "sale": false,
+      "sale": true,
       "trending": false,
       "icon": false,
       "thumbnail": [
@@ -967,7 +967,7 @@
       "id": "DM8446-103",
       "name": "Nike Air Zoom Infinity Tour NEXT%",
       "genre": "",
-      "price": 0,
+      "price": 14995,
       "color": [
         "White",
         "Blue"
@@ -992,7 +992,7 @@
       "id": "DN3253-061",
       "name": "Air Jordan 1 Elevate High",
       "genre": "",
-      "price": 0,
+      "price": 16995,
       "color": [
         "Pink",
         "Black"
@@ -1017,7 +1017,7 @@
       "id": "DN3253-200",
       "name": "Air Jordan 1 Elevate High",
       "genre": "",
-      "price": 0,
+      "price": 11295,
       "color": [
         "Cream"
       ],
@@ -1041,13 +1041,13 @@
       "id": "DR0148-102",
       "name": "Nike Air Force 1 '07 LX",
       "genre": "",
-      "price": 0,
+      "price": 11000,
       "color": [
         "Cream",
         "Green"
       ],
       "gender": "Women",
-      "sale": false,
+      "sale": true,
       "trending": false,
       "icon": false,
       "thumbnail": [
@@ -1065,7 +1065,7 @@
       "id": "DM0113-004",
       "name": "Nike Court Vision Alta",
       "genre": "",
-      "price": 0,
+      "price": 14225,
       "color": [
         "Cream"
       ],
@@ -1088,7 +1088,7 @@
       "id": "DV0427-100",
       "name": "Air Jordan 1 Mid SE",
       "genre": "",
-      "price": 0,
+      "price": 15995,
       "color": [
         "Black",
         "Gray"
@@ -1112,13 +1112,13 @@
       "id": "FD4151-100",
       "name": "Nike React Infinity 3 Premium",
       "genre": "",
-      "price": 0,
+      "price": 14595,
       "color": [
         "Gray",
         "Pink"
       ],
       "gender": "Women",
-      "sale": false,
+      "sale": true,
       "trending": false,
       "icon": false,
       "thumbnail": [
@@ -1136,7 +1136,7 @@
       "id": "DV7190-100",
       "name": "Nike Air Max 90 Futura",
       "genre": "",
-      "price": 0,
+      "price": 12995,
       "color": [
         "Cream"
       ],
@@ -1159,12 +1159,12 @@
       "id": "DZ3674-100",
       "name": "Nike Air Force 1 Low Billie",
       "genre": "",
-      "price": 0,
+      "price": 15295,
       "color": [
         "White"
       ],
       "gender": "Women",
-      "sale": false,
+      "sale": true,
       "trending": false,
       "icon": false,
       "thumbnail": [
@@ -1182,7 +1182,7 @@
       "id": "DR9761-600",
       "name": "Nike Tech Hera",
       "genre": "",
-      "price": 0,
+      "price": 16095,
       "color": [
         "Pink"
       ],
@@ -1205,12 +1205,12 @@
       "id": "DR5720-601",
       "name": "Nike Zoom Bella 6",
       "genre": "",
-      "price": 0,
+      "price": 16995,
       "color": [
         "Pink"
       ],
       "gender": "Women",
-      "sale": false,
+      "sale": true,
       "trending": false,
       "icon": true,
       "thumbnail": [
@@ -1228,7 +1228,7 @@
       "id": "DJ9946-105",
       "name": "Nike Air Force 1 PLT.AF.ORM",
       "genre": "",
-      "price": 0,
+      "price": 16995,
       "color": [
         "Cream",
         "Pink"
@@ -1252,12 +1252,12 @@
       "id": "DJ6159-600",
       "name": "Nike Pegasus Trail 4",
       "genre": "",
-      "price": 0,
+      "price": 16295,
       "color": [
         "Cream"
       ],
       "gender": "Women",
-      "sale": false,
+      "sale": true,
       "trending": false,
       "icon": false,
       "thumbnail": [
@@ -1275,7 +1275,7 @@
       "id": "DV7449-101",
       "name": "Nike Air Force 1 Shadow",
       "genre": "",
-      "price": 0,
+      "price": 14995,
       "color": [
         "Cream",
         "Pink"
@@ -1300,7 +1300,7 @@
       "id": "DV3950-800",
       "name": "Nike Free Metcon 5",
       "genre": "",
-      "price": 0,
+      "price": 18995,
       "color": [
         "Cream",
         "Green"
@@ -1325,12 +1325,12 @@
       "id": "FD0803-100",
       "name": "Nike Dunk Low",
       "genre": "",
-      "price": 0,
+      "price": 16900,
       "color": [
         "White"
       ],
       "gender": "Women",
-      "sale": false,
+      "sale": true,
       "trending": false,
       "icon": false,
       "thumbnail": [
